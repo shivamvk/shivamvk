@@ -1,6 +1,6 @@
 ### Hi there I'm Shivam 👋
 
-I'm a fullstack developer :space_invader: . I am passionate about Mobile app development and have recently started working with MERN stack. :computerboom: 
+I'm a fullstack developer :space_invader: . I am passionate about Mobile app development and have recently started working with MERN stack. :computer:  
 
 - 🔭 I’m currently working on US based tele heath project(Android)
 - 🌱 I’m currently learning react
